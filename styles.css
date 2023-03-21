@@ -4,8 +4,6 @@
 	background-color:black;
 	color:white;
 	border-radius: 5px;
-	width:200px;
-	height:100px;
 }
 #btn:hover {
 	background-color:yellow;
